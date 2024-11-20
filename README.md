@@ -62,9 +62,3 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atabeyc&show_icons=true&locale=en&layout=compact" alt="atabeyc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atabeyc&" alt="atabeyc" /></p>
